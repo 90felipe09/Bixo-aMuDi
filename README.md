@@ -15,3 +15,4 @@
 | ![PietroSantana](https://avatars2.githubusercontent.com/u/37908236?s=460&v=4) | Pietro Santana | https://github.com/PietroSantana | Numtem |
 | ![GiuliaCN](https://avatars1.githubusercontent.com/u/37909698?s=460&v=4) | Giulia Nardi | https://github.com/90felipe09 | Numtem |
 | ![Fefadsouza](https://avatars3.githubusercontent.com/u/37910196?s=460&v=4) | Fernanda Damasceno | https://github.com/PietroSantana | Numtem |
+| ![MComp413](https://avatars3.githubusercontent.com/u/37025685?s=460&v=4) | Matheus Andrade | https://github.com/MComp413 | Numtem |
