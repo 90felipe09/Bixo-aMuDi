@@ -11,4 +11,4 @@
 
 | | **Nome** | **GitHub** | **Função** |
 |-|------|--------|--------|
-| ![90felipe09](https://avatars3.githubusercontent.com/u/6313981?s=460&v=4) | Felipe Kenzo | https://github.com/90felipe09 | Numtem |
+| ![90felipe09](https://avatars3.githubusercontent.com/u/6313981?s=400&u=0f02852d4e2082f44468e7d0db31e43e334d90f7&v=4) | Felipe Kenzo | https://github.com/90felipe09 | Numtem |
