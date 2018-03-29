@@ -17,3 +17,4 @@
 | ![Fefadsouza](https://avatars3.githubusercontent.com/u/37910196?s=460&v=4) | Fernanda Damasceno | https://github.com/PietroSantana | Numtem |
 | ![MComp413](https://avatars3.githubusercontent.com/u/37025685?s=460&v=4) | Matheus Andrade | https://github.com/MComp413 | Numtem |
 | ![WesAlmeida](https://avatars2.githubusercontent.com/u/37912094?s=460&v=4) | Wesley Almeida | https://github.com/WesAlmeida | Numtem |
+| ![alexfredbr](https://avatars1.githubusercontent.com/u/37912272?s=400&v=4) | Alexandre Frederick | https://github.com/alexfredbr | Numtem |
