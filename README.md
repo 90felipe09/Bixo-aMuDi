@@ -18,3 +18,4 @@
 | ![MComp413](https://avatars3.githubusercontent.com/u/37025685?s=460&v=4) | Matheus Andrade | https://github.com/MComp413 | Numtem | Opa |
 | ![WesAlmeida](https://avatars2.githubusercontent.com/u/37912094?s=460&v=4) | Wesley Almeida | https://github.com/WesAlmeida | Numtem | Opa |
 | ![alexfredbr](https://avatars1.githubusercontent.com/u/37912272?s=400&v=4) | Alexandre Frederick | https://github.com/alexfredbr | Numtem | Opa |
+| ![LucianaMarques](https://avatars0.githubusercontent.com/u/10895920?s=460&v=4) | Luciana Marques | https://github.com/LucianaMarques | Numtem | Opa |
