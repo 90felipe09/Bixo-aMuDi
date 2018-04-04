@@ -17,6 +17,6 @@
 | ![Fefadsouza](https://avatars3.githubusercontent.com/u/37910196?s=460&v=4) | Fernanda Damasceno | https://github.com/PietroSantana | I.A., Interação e Movimentação | - |
 | ![MComp413](https://avatars3.githubusercontent.com/u/37025685?s=460&v=4) | Matheus Andrade | https://github.com/MComp413 | I.A., Sensoriamento e Easter Eggs | - |
 | ![WesAlmeida](https://avatars2.githubusercontent.com/u/37912094?s=460&v=4) | Wesley Almeida | https://github.com/WesAlmeida | I.A., Interação e Easter Eggs | - |
-| ![alexfredbr](https://avatars1.githubusercontent.com/u/37912272?s=400&v=4) | Alexandre Frederick | https://github.com/alexfredbr | Numtem | Opa |
+| ![alexfredbr](https://avatars1.githubusercontent.com/u/37912272?s=400&v=4) | Alexandre Frederick | https://github.com/alexfredbr | I.A. e Sensoriamento | - |
 | ![LucianaMarques](https://avatars0.githubusercontent.com/u/10895920?s=460&v=4) | Luciana Marques | https://github.com/LucianaMarques | Numtem | Opa |
 | ![Vinytt](https://avatars2.githubusercontent.com/u/38005211?s=460&v=4) | Vinícius Ariel | https://github.com/Vinytt | Design, I.A. e Movimentação | - |
