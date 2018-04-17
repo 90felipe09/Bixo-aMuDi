@@ -20,4 +20,4 @@
 | ![alexfredbr](https://avatars1.githubusercontent.com/u/37912272?s=400&v=4) | Alexandre Frederick | https://github.com/alexfredbr | I.A. e Sensoriamento | - |
 | ![LucianaMarques](https://avatars0.githubusercontent.com/u/10895920?s=460&v=4) | Luciana Marques | https://github.com/LucianaMarques | ROS Enthusiastic, I.A., Sensoriamento | - |
 | ![Vinytt](https://avatars2.githubusercontent.com/u/38005211?s=460&v=4) | Vinícius Ariel | https://github.com/Vinytt | Design, I.A. e Movimentação | - |
-| ![anaqueo](https://avatars2.githubusercontent.com/u/38076093?s=400&v=4) | Raquel | https://github.com/anaqueo | Interação, Sensoriamento e Movimentação | - |
+| ![anaqueo](https://avatars2.githubusercontent.com/u/38076093?s=400&v=4) | Raquel de Andrade | https://github.com/anaqueo | Interação, Sensoriamento e Movimentação | - |
